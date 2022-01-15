@@ -103,11 +103,14 @@ ul{
     padding: 5px;
     border-radius: 6px;
     margin: 10px 10px;
+} 
+
+.text-color{
+    color: white;
 }
 
 .editorial{ 
     background-color: rgb(69, 171, 234); 
-    color: white;
 }
 
 #goal{
