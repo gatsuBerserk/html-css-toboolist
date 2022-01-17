@@ -20,13 +20,14 @@ body{
 }
 
 .logo{
-    height: 100px;
+    height: 100%; /* Usiamo la % invece che i px */
     vertical-align: middle;
 }
 
 .title{
+    vertical-align: middle;
     font-weight: bold;
-    font-size: 2em;
+    font-size: 3em;
 }
 /* /Style initial section */ 
 
